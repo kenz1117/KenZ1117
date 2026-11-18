@@ -34,6 +34,12 @@ dsh plugin --profile web add npm:@kenz1117/dsh-ui-usage-billing@latest
 dsh plugin --profile web add @kenz1117/dsh-engram
 ```
 
+<p align="center">
+  <a href="https://github.com/kenz1117/dsh-engram">
+    <img src="https://raw.githubusercontent.com/kenz1117/dsh-engram/main/docs/screenshots/hero.jpg" width="560" alt="dsh-engram 记忆宫殿面板">
+  </a>
+</p>
+
 ---
 
 ### 🌈 [dsh-ui-rainbowspeak](https://github.com/kenz1117/dsh-ui-rainbowspeak) · 虹语 + 桌宠「小虹」
